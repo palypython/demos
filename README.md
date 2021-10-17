@@ -9,4 +9,5 @@ expermiment with them to learn Python.
 * [simple calculator](https://replit.com/@MrEconomical/calculator-demo) - a calculator that supports addition, subtraction, mutliplication, and division
 * [better calculator](https://replit.com/@MrEconomical/better-calculator-demo?v=1) - a better version of the above calculator that parses expressions. 
 * [print name](https://replit.com/@MrEconomical/print-name-demo) - a program that askes for your name and then prints it.
+* [Menu demo](https://github.com/Fluorescence89/menu-demo) - a demo that has a menu-selector in the terminal where the user can use keys to select different options from the menu
 
